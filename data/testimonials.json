@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah & Mike Thompson",
+    "project": "Kitchen Remodel — Portland, OR",
+    "quote": "Emberline transformed our outdated kitchen into the heart of our home. The craftsmanship in the custom cabinetry is stunning, and they finished ahead of schedule. Couldn't be happier!",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "David Chen",
+    "project": "Bathroom Renovation — Lake Oswego, OR",
+    "quote": "From the initial consultation to the final walkthrough, the Emberline team was professional, communicative, and detail-oriented. Our bathroom looks like it belongs in a magazine.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Rachel Martinez",
+    "project": "Deck & Outdoor Kitchen — Beaverton, OR",
+    "quote": "They built exactly what we envisioned and then some. The deck is gorgeous and the outdoor kitchen is perfect for summer entertaining. The attention to detail sets them apart.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Tom & Linda Patel",
+    "project": "Whole-Home Renovation — Tigard, OR",
+    "quote": "We gutted our 1960s ranch and Emberline brought it into the modern age while keeping its charm. They managed every subcontractor seamlessly and the result exceeded our expectations.",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Jessica Liu",
+    "project": "Home Addition — Milwaukie, OR",
+    "quote": "Adding a second story was a huge project, but the Emberline team made it feel manageable. They communicated every step of the way and the quality of work is exceptional.",
+    "rating": 5
+  }
+]

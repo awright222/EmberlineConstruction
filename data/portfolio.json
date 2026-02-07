@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Kitchen Overhaul",
+    "category": "Kitchen Remodel",
+    "description": "A complete kitchen renovation featuring custom white oak cabinetry, quartz countertops, and a herringbone tile backsplash. Opened up the floor plan for a spacious, light-filled cooking space.",
+    "images": ["/images/portfolio/kitchen1.jpg"]
+  },
+  {
+    "id": 2,
+    "title": "Craftsman Bathroom Suite",
+    "category": "Bathroom Remodel",
+    "description": "Transformed a dated bathroom into a spa-like retreat with floor-to-ceiling tile, a freestanding tub, frameless glass shower, and custom vanity with vessel sink.",
+    "images": ["/images/portfolio/bathroom1.jpg"]
+  },
+  {
+    "id": 3,
+    "title": "Backyard Deck & Pergola",
+    "category": "Outdoor Living",
+    "description": "Designed and built a multi-level composite deck with integrated lighting, a cedar pergola, and built-in bench seating for the ultimate outdoor entertaining space.",
+    "images": ["/images/portfolio/deck1.jpg"]
+  },
+  {
+    "id": 4,
+    "title": "Open-Concept Living Room",
+    "category": "Whole-Home Renovation",
+    "description": "Removed load-bearing walls and installed steel beams to create a stunning open-concept living area with hardwood floors, a custom fireplace mantel, and recessed lighting.",
+    "images": ["/images/portfolio/livingroom1.jpg"]
+  },
+  {
+    "id": 5,
+    "title": "Second Story Addition",
+    "category": "Home Addition",
+    "description": "Added a full second story with two bedrooms, a bath, and a home office. Seamlessly matched the existing architectural style with new siding, roofing, and trim.",
+    "images": ["/images/portfolio/addition1.jpg"]
+  },
+  {
+    "id": 6,
+    "title": "Custom Built-In Library",
+    "category": "Custom Builds",
+    "description": "Floor-to-ceiling built-in bookshelves with integrated ladder rail, LED cabinet lighting, and a reading nook — a true showcase of fine finish carpentry.",
+    "images": ["/images/portfolio/builtin1.jpg"]
+  }
+]

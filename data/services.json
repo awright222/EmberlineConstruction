@@ -1,0 +1,44 @@
+[
+  {
+    "id": "kitchen-remodel",
+    "icon": "kitchen",
+    "title": "Kitchen Remodeling",
+    "description": "Complete kitchen transformations from layout design to custom cabinetry, countertops, backsplash, and appliance installation. We create kitchens that are both beautiful and functional.",
+    "features": ["Custom Cabinetry", "Countertop Installation", "Backsplash & Tile", "Appliance Setup", "Lighting Design"]
+  },
+  {
+    "id": "bathroom-remodel",
+    "icon": "bathroom",
+    "title": "Bathroom Remodeling",
+    "description": "Luxury bathroom renovations including tile work, vanity installation, shower and tub surrounds, plumbing fixtures, and custom finishes that elevate your daily routine.",
+    "features": ["Tile & Stone Work", "Vanity Installation", "Shower/Tub Surrounds", "Plumbing Fixtures", "Heated Floors"]
+  },
+  {
+    "id": "additions",
+    "icon": "additions",
+    "title": "Home Additions",
+    "description": "Expand your living space with seamlessly integrated home additions. From extra bedrooms to sunrooms and in-law suites, we handle the full build from foundation to finish.",
+    "features": ["Room Additions", "Sunrooms", "Second Story", "In-Law Suites", "Garage Conversions"]
+  },
+  {
+    "id": "whole-home",
+    "icon": "home",
+    "title": "Whole-Home Renovations",
+    "description": "Top-to-bottom home renovations that breathe new life into your space. We coordinate every trade to deliver a cohesive, stunning result on time and on budget.",
+    "features": ["Full Interior Remodel", "Structural Changes", "Flooring & Paint", "Trim & Millwork", "Project Management"]
+  },
+  {
+    "id": "decks-outdoor",
+    "icon": "deck",
+    "title": "Decks & Outdoor Living",
+    "description": "Custom decks, patios, pergolas, and outdoor kitchens designed to extend your living space into the great outdoors. Built to withstand the elements beautifully.",
+    "features": ["Custom Decks", "Pergolas & Gazebos", "Outdoor Kitchens", "Patio Design", "Fencing"]
+  },
+  {
+    "id": "custom-builds",
+    "icon": "custom",
+    "title": "Custom Builds & Finish Work",
+    "description": "Bespoke built-ins, mantels, trim carpentry, and specialty woodwork that add character and craftsmanship to any space. Where our woodworking roots truly shine.",
+    "features": ["Built-In Shelving", "Custom Mantels", "Crown Molding", "Wainscoting", "Specialty Carpentry"]
+  }
+]
