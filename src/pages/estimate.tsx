@@ -43,7 +43,7 @@ export default function Estimate() {
   return (
     <>
       <Head>
-        <title>Free Estimate | Emberline Construction</title>
+        <title>Book Consultation | Emberline Construction</title>
         <meta name="description" content="Request a free, no-obligation estimate for your construction project. Kitchen remodels, bathroom renovations, home additions, and more." />
       </Head>
 
@@ -52,7 +52,7 @@ export default function Estimate() {
       {/* Hero */}
       <section className="pt-32 pb-16 bg-wood-dark text-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Free Estimate</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Book Consultation</h1>
           <p className="text-gray-300 text-lg max-w-2xl mx-auto">
             Tell us about your project and we&apos;ll get back to you with a detailed estimate. No obligation, no pressure.
           </p>

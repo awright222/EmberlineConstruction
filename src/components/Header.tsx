@@ -8,7 +8,7 @@ export default function Header() {
   const navItems = [
     { name: 'Services', href: '/services' },
     { name: 'Portfolio', href: '/portfolio' },
-    { name: 'Free Estimate', href: '/estimate' },
+    { name: 'Book Consultation', href: '/estimate' },
     { name: 'About', href: '/about' },
     { name: 'Testimonials', href: '/testimonials' },
     { name: 'Contact', href: '/contact' },
@@ -42,7 +42,7 @@ export default function Header() {
               </Link>
             ))}
             <a
-              href="https://emberlinewoodworks.vercel.app"
+              href="https://emberline.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-ember-light hover:text-ember transition-colors duration-200 text-sm lg:text-base font-medium"
@@ -97,7 +97,7 @@ export default function Header() {
                 </Link>
               ))}
               <a
-                href="https://emberlinewoodworks.vercel.app"
+                href="https://emberline.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-ember-light hover:text-ember transition-colors duration-200 text-base font-medium"

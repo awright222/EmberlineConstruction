@@ -30,7 +30,7 @@ export default function About() {
             <div className="prose prose-lg text-gray-600 space-y-6">
               <p>
                 Emberline Construction grew out of a deep love for building things by hand. What started as a custom furniture 
-                and woodworking studio — <a href="https://emberlinewoodworks.vercel.app" target="_blank" rel="noopener noreferrer" className="text-ember hover:text-ember-dark">Emberline Woodworks</a> — 
+                and woodworking studio — <a href="https://emberline.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-ember hover:text-ember-dark">Emberline Woodworks</a> — 
                 naturally evolved as clients began asking for more: a kitchen to match their custom table, a deck to showcase their 
                 outdoor furniture, a whole-home renovation that reflected their taste.
               </p>

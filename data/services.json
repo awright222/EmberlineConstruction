@@ -1,5 +1,12 @@
 [
   {
+    "id": "new-construction",
+    "icon": "home",
+    "title": "New Construction",
+    "description": "From the ground up, we build custom homes and structures tailored to your lifestyle. Full-service new construction including site prep, framing, and finish work.",
+    "features": ["Custom Homes", "Site Preparation", "Framing & Structure", "Foundation Work", "Full Project Management"]
+  },
+  {
     "id": "kitchen-remodel",
     "icon": "kitchen",
     "title": "Kitchen Remodeling",
@@ -40,5 +47,12 @@
     "title": "Custom Builds & Finish Work",
     "description": "Bespoke built-ins, mantels, trim carpentry, and specialty woodwork that add character and craftsmanship to any space. Where our woodworking roots truly shine.",
     "features": ["Built-In Shelving", "Custom Mantels", "Crown Molding", "Wainscoting", "Specialty Carpentry"]
+  },
+  {
+    "id": "demolition",
+    "icon": "custom",
+    "title": "Demolition & Gutting",
+    "description": "Safe, efficient tear-down and interior gutting services to clear the way for your next project. From full structure removal to selective interior demo, we handle disposal and site cleanup.",
+    "features": ["Full Structure Demolition", "Interior Gutting", "Selective Demo", "Debris Removal & Hauling", "Site Cleanup"]
   }
 ]

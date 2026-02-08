@@ -40,7 +40,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link href="/estimate" className="text-gray-300 hover:text-wood-light transition-colors">
-                  Free Estimate
+                  Book Consultation
                 </Link>
               </li>
               <li>

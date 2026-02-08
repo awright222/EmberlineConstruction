@@ -109,7 +109,7 @@ export default function Services() {
             href="/estimate"
             className="inline-block bg-ember text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-ember-dark transition-colors duration-200"
           >
-            Get a Free Estimate
+            Book Consultation
           </Link>
         </div>
       </section>

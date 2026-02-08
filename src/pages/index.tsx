@@ -61,7 +61,7 @@ export default function Home() {
       <Hero
         title="Built with Purpose. Finished with Pride."
         subtitle="Quality general contracting with a craftsman's eye for detail. From renovations to new builds, we bring your vision to life."
-        ctaText="Get a Free Estimate"
+        ctaText="Book Consultation"
         ctaHref="/estimate"
         backgroundImage="/images/homeimages/premium-kitchen.jpg"
       />
@@ -155,13 +155,13 @@ export default function Home() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Start Your Project?</h2>
           <p className="text-gray-300 text-lg max-w-2xl mx-auto mb-8">
-            Get a free, no-obligation estimate. We&apos;ll discuss your vision, timeline, and budget — then craft a plan to make it happen.
+            Let&apos;s discuss your vision, timeline, and budget — then craft a plan to make it happen.
           </p>
           <Link
             href="/estimate"
             className="inline-block bg-ember text-white px-10 py-4 rounded-lg text-lg font-semibold hover:bg-ember-dark transition-colors duration-200 shadow-lg"
           >
-            Request Your Free Estimate
+            Book Consultation
           </Link>
         </div>
       </section>
