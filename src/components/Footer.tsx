@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Footer() {
   return (
@@ -7,7 +8,15 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Business Info */}
           <div>
-            <h3 className="text-xl font-bold mb-4">Emberline Construction</h3>
+            <Link href="/" className="inline-block mb-4">
+              <Image
+                src="/images/logo-text-light.png"
+                alt="Emberline Construction"
+                width={220}
+                height={73}
+                className="h-14 w-auto"
+              />
+            </Link>
             <p className="text-gray-300 mb-4">
               Quality general contracting with a craftsman&apos;s eye for detail.
               From renovations to new builds, we bring your vision to life.

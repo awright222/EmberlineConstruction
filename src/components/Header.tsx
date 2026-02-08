@@ -21,11 +21,11 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex-shrink-0">
             <Image
-              src="/images/logotxtwht.png"
+              src="/images/logo-text-light-alt.png"
               alt="Emberline Construction"
-              width={200}
-              height={80}
-              className="h-14 md:h-20 w-auto"
+              width={300}
+              height={100}
+              className="h-12 md:h-16 w-auto"
               priority
             />
           </Link>

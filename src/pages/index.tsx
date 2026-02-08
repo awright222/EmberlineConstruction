@@ -63,7 +63,7 @@ export default function Home() {
         subtitle="Quality general contracting with a craftsman's eye for detail. From renovations to new builds, we bring your vision to life."
         ctaText="Get a Free Estimate"
         ctaHref="/estimate"
-        backgroundImage="/images/hero-bg.jpg"
+        backgroundImage="/images/homeimages/premium-kitchen.jpg"
       />
 
       {/* Services Preview */}
