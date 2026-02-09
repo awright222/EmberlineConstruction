@@ -94,7 +94,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Location</h3>
-                    <p className="text-gray-600">Serving Portland, OR &amp; surrounding areas</p>
+                    <p className="text-gray-600">Serving Cody, WY &amp; surrounding areas</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">

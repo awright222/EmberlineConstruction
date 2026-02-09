@@ -51,7 +51,7 @@ export default function Home() {
         <title>Emberline Construction | Quality General Contracting</title>
         <meta
           name="description"
-          content="Emberline Construction — quality general contracting with a craftsman's eye for detail. Kitchen remodels, bathroom renovations, home additions, and more in Portland, OR."
+          content="Emberline Construction — quality general contracting with a craftsman's eye for detail. Kitchen remodels, bathroom renovations, home additions, and more in Cody, WY."
         />
       </Head>
 

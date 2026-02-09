@@ -79,7 +79,7 @@ export default function About() {
                 </svg>
               </div>
               <h3 className="font-bold text-gray-900 mb-2">Community</h3>
-              <p className="text-gray-600 text-sm">Proudly serving Portland and surrounding areas — our neighbors are our clients.</p>
+              <p className="text-gray-600 text-sm">Proudly serving Cody, Wyoming and surrounding areas — our neighbors are our clients.</p>
             </div>
             <div className="text-center">
               <div className="w-16 h-16 bg-ember/10 rounded-full flex items-center justify-center mx-auto mb-4">
